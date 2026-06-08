@@ -1,0 +1,24 @@
+[project]
+name = "progit-qa"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "openai==2.37.0",
+    "chromadb==1.5.9",
+    "langchain-core==1.4.0",
+    "langchain-text-splitters==1.1.2",
+    "langchain-groq",
+    "sentence-transformers",
+    "streamlit>=1.35.0",
+    "pypdf",
+    "python-dotenv",
+    "pandas",
+    "numpy",
+    "requests",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "pytest>=8.0",
+    "pytest-asyncio",
+]
