@@ -4,8 +4,7 @@
 
 **Autor:** Alexsandro Barreto de Abreu  
 **Disciplina:** Mod4 / PPI — Desenvolvendo Software com IA Generativa  
-**Demo:** https://pro-git-q-a-ekkuhqhfmgak4xymyrqj5n.streamlit.app
-
+**Demo:** https://pro-git-q-a-ekkuhqhfmgak4xymyrqj5n.streamlit.app  
 **Vídeo:** https://youtu.be/Egx97bK17BY
 
 ---
